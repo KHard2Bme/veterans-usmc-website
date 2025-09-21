@@ -18,7 +18,7 @@ The project has two phases:
 ## 📋 Foundational Steps
 
 1. **Repository Setup**  
-   - Create a new repository in GitHub (or AWS CodeCommit).  
+   - Create a new repository in GitHub.  
    - Add and commit the provided HTML file.  
 
 2. **S3 Bucket Creation**  
